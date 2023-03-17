@@ -1,5 +1,6 @@
 html{
     line-height: 1.15;
+    scroll-behavior: smooth;
 }
 *{
     -webkit-box-sizing: border-box;
@@ -9,7 +10,6 @@ body{
     margin: 0;
     font-family:'Oxygen',sans-serif;
     position: relative;
-    scroll-behavior: smooth;
 }
 section{
     padding: 90px 15px;
