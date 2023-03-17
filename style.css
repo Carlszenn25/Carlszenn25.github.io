@@ -9,6 +9,7 @@ body{
     margin: 0;
     font-family:'Oxygen',sans-serif;
     position: relative;
+    scroll-behavior: smooth;
 }
 section{
     padding: 90px 15px;
